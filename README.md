@@ -1,3 +1,5 @@
+*This is a private fork intended for my own personal use. Please go to https://github.com/balfieri/cordic to view the most up to date info on this project.*
+
 # Table of Contents
 
 - [Overview](#overview)
